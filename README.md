@@ -1,5 +1,5 @@
 &nbsp;
-<p align="center"><img src="images/synergy_sportradar_logo.png" width="640"></p>
+
 
 # SoccerNet Player Re-Identification - *2023 EDITION*
 Welcome to the Development Kit and Dataset for the SoccerNet Re-Identification Task and Challenge.
@@ -26,155 +26,11 @@ Make sure to watch our announcement video on Youtube:
 <p align="center"><img src="images/Thumbnail.png" width="520"></p>
 </a>
 
-### 2023 Challenge Leaderboard
+ 
+     
 
-<p><table class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th style = "background-color: #FFFFFF;font-family: Century Gothic, sans-serif;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 0px 20px 0px 0px;width: auto">Team</th>
-      <th style = "background-color: #FFFFFF;font-family: Century Gothic, sans-serif;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 0px 20px 0px 0px;width: auto">mAP</th>
-      <th style = "background-color: #FFFFFF;font-family: Century Gothic, sans-serif;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 0px 20px 0px 0px;width: auto">rank-1</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">UniBw Munich - VIS</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">93.26</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">91.26</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Baseline (Inspur)</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">91.68</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.41</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">sjtu-lenovo</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">91.51</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.17</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">MTVACV</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">90.11</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">87.04</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">ErxianBridge</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">85.76</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">82.33</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">cm_test</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">42.6</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">28.73</td>
-    </tr>
-  </tbody>
-</table></p>
-
-### 2022 Challenge Leaderboard
-
-<p><table border="0" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th style = "background-color: #FFFFFF;font-family: Century Gothic, sans-serif;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 0px 20px 0px 0px;width: auto">Team</th>
-      <th style = "background-color: #FFFFFF;font-family: Century Gothic, sans-serif;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 0px 20px 0px 0px;width: auto">mAP</th>
-      <th style = "background-color: #FFFFFF;font-family: Century Gothic, sans-serif;font-size: medium;color: #305496;text-align: left;border-bottom: 2px solid #305496;padding: 0px 20px 0px 0px;width: auto">rank-1</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Inspur</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">91.68</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.41</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">MGSoccer</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">91.48</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.21</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">MTVACV</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">90.11</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">87.04</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">gunners</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.47</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">86.42</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">MIG</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.44</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">86.11</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">MMLab</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">89.01</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">85.68</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">ReBatch</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">88.36</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">84.82</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">tianchao</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">87.39</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">84.25</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">126_187</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">86.96</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">83.04</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Blackghost</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">78.25</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">71.5</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">1234567</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">65.98</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">58.4</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">rasengan</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">64.79</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">54.27</td>
-    </tr>
-    <tr>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">baba</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">60.32</td>
-      <td style = "background-color: #D9E1F2;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">48.91</td>
-    </tr>
-    <tr>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">Baseline*</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">59.11*</td>
-      <td style = "background-color: white; color: black;font-family: Century Gothic, sans-serif;font-size: medium;text-align: left;padding: 0px 20px 0px 0px;width: auto">48.41</td>
-    </tr>
-  </tbody>
-</table></p>
-
-## Challenge description
-The SoccerNet Re-Identification (ReID) dataset is composed of 340.993 players thumbnails extracted from image frames of broadcast videos from 400 soccer games within 6 major leagues.
-The goal of the challenge is to re-identify soccer players across multiple camera viewpoints depicting the same action during the game.
-
-We call the first frame in which the action has been seen in the broadcast video as the "action frame".
-The other frames depicting the same action (at roughly the same timestamp), and appearing later in the broadcast video, are called the "replay frame".
-The goal of the challenge is to re-identify each soccer player in the action frame across the different replay frames.
-For that purpose, each bounding box from a given action frame will be considered as a query, and bounding boxes from the corresponding replay frames will be ranked according to their distance to each query.
-The SoccerNet ReID dataset is divided into training, validation, test and challenge sets.
-Labels for the challenge set are kept secret as participants to the challenge will be ranked according to their performance on it.
-The winner of the challenge will be the participant with the highest mAP score on the challenge set. 
-
-Compared to traditional street surveillance type re-identification dataset, the SoccerNet-v3 ReID dataset is particularly
-challenging because soccer players from the same team have very similar appearance, which makes it hard to tell them apart.
-On the other hand, each identity has a few number of samples, which render the model harder to train.
-There is also a big diversity in image resolution.
-
-**Important note**: Player identity labels are derived from links between bounding boxes within an action and are therefore only valid within the given action.
-Consequently, player identity labels do not hold across actions and a given player has a different identity for each action he has been spotted in.
-For that reason, during the evaluation process, only samples within the same action are matched against each other.
-During the training stage, it is up to the participants to implement strategies to mitigate the negative impact of image samples from different actions depicting the same player but labeled with different identities.
+   
+  
 
 &nbsp;
 
@@ -192,44 +48,7 @@ Each action contains a set of samples, which are images files of players or refe
 Annotations for each sample are provided within the filename, as described in the next section.
 
 
-### Filename convention
-#### Train/valid/test sets
-Filename convention for samples in the train/valid/test sets:
-```
-<bbox_idx>_<action_idx>_<person_uid>_<frame_idx>_<class>_<ID>_<UAI>_<height>x<width>.png
-```
-e.g. '54404-1940-33397-5089-Player_team_right-9-014r002_00858c3b0003-775x449.png'
 
-1. `bbox_idx`: bounding box (or sample) index within the current train/query/gallery list of samples.
-2. `action_idx`: action index within the current set (train/valid/test/challenge). An action corresponds to an action frame and its related replay frames.
-3. `person_uid`: person identifier or PID, unique across all sets. Be aware that the same player/referee will be assigned different pids in different actions. All samples with a given 'person_uid' will therefore have the same 'action_idx'.     
-4. `frame_idx`: frame index (action frame or replay frame) within the current set (train/valid/test/challenge).
-5. `class`: person class within :
-    1. "Player team left"
-    2. "Player team right"
-    3. "Goalkeeper team left"
-    4. "Goalkeeper team right"
-    5. "Main referee"
-    6. "Side referee"
-    7. "Staff members"
-    8. "Player team unknown 1"
-    9. "Player team unknown 2"
-    10. "Goalkeeper team unknown"
-6. `ID`: this field corresponds to the "ID" field from the original soccernet-v3 annotations and the 'person_uid' field is derived from it. It refers to the identifier of the player within the action:
-   1. It corresponds to the player jersey number when it is given as a number. The jersey number is provided for a player if it can be seen at least once within one frame of the action. 
-   2. If the jersey number is not visible in any frame of the action, then this field is given as a letter.
-   3. The field is set to 'None' if the player cannot be seen in any other frame of the action.
-8. `UAI`: item UAI from original soccernet-v3 annotations.
-9. `height`: image height.
-10. `width`: image width.
-
-Participants are encouraged to use any provided information (image height/width, action_idx, class, ID) to develop better training strategies.
-
-#### Challenge set
-Annotations for the challenge set are kept secret, the filename convention for challenge set samples is therefore:
-```
-<bbox_idx>_<action_idx>_<height>x<width>.png
-```
 
 ### Evaluation
 Similar to standard ReID datasets, each valid/test/challenge set is split into two subsets: query and gallery.
