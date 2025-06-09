@@ -22,7 +22,6 @@ The official rules and guidelines are available on [ChallengeRules.md](Challenge
 Make sure to watch our announcement video on Youtube:
 
 &nbsp;
-<a href="https://youtu.be/tA9E1hkiyB0">
 <p align="center"><img src="images/Thumbnail.png" width="520"></p>
 </a>
 
