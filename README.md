@@ -1,7 +1,7 @@
 &nbsp;
 
 
-# SoccerNet Player Re-Identification - *2023 EDITION*
+# Soccer Player Re-Identification 
 Welcome to the Development Kit and Dataset for the SoccerNet Re-Identification Task and Challenge.
 This kit is meant as a help to get started working with the SoccerNet data and the proposed task.
 In this task, participants will have to re-identify soccer players across multiple camera viewpoints.
