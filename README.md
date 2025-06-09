@@ -155,9 +155,6 @@ For that purpose, you'll need to provide the location of the corresponding groun
 Make sure to use the correct ground truth file (valid or test) with respect to the set on which the ranking result file was computed.
 Exported ranking results cannot be evaluated locally for the challenge set because the corresponding ground truth file is kept private from the participants. 
 
-### How to submit your ranking results to participate in the challenge
-In order to participate in the challenge, the exported ranking results for the challenge set should be submitted as a JSON file on the online evaluation platform [EvalAI](https://eval.ai/web/challenges/challenge-page/1948/overview).
-Further information can be found on the EvalAI website.
 
 
 ## Future improvements
@@ -165,48 +162,7 @@ This repository will be actively maintained during the course of the challenge, 
 Here are some of the things we plan to add or improve:
 - Some stats about the dataset size.
 - Faster ranking script in rank.py to assess model performance.
-- ...
-
-Feel free to suggest any changes.
 
 
-## Our other Challenges
-Check out our other challenges related to SoccerNet:
-- [Action Spotting](https://github.com/SoccerNet/sn-spotting)
-- [Replay Grounding](https://github.com/SoccerNet/sn-grounding)
-- [Calibration](https://github.com/SoccerNet/sn-calibration)
-- [Re-Identification](https://github.com/SoccerNet/sn-reid)
-- [Tracking](https://github.com/SoccerNet/sn-tracking)
 
 
-## Citation
-For further information check out the paper and supplementary material:
-https://arxiv.org/abs/2210.02365
-
-Please cite our work if you use the SoccerNet dataset:
-```bibtex
-@inproceedings{Giancola_2022,
-	doi = {10.1145/3552437.3558545},
-	url = {https://doi.org/10.1145%2F3552437.3558545},
-	year = 2022,
-	month = {oct},
-	publisher = {{ACM}},
-	author = {Silvio Giancola and Anthony Cioppa and Adrien Deli{\`{e}}ge and Floriane Magera and Vladimir Somers and Le Kang and Xin Zhou and Olivier Barnich and Christophe De Vleeschouwer and Alexandre Alahi and Bernard Ghanem and Marc Van Droogenbroeck and Abdulrahman Darwish and Adrien Maglo and Albert Clap{\'{e}}s and Andreas Luyts and Andrei Boiarov and Artur Xarles and Astrid Orcesi and Avijit Shah and Baoyu Fan and Bharath Comandur and Chen Chen and Chen Zhang and Chen Zhao and Chengzhi Lin and Cheuk-Yiu Chan and Chun Chuen Hui and Dengjie Li and Fan Yang and Fan Liang and Fang Da and Feng Yan and Fufu Yu and Guanshuo Wang and H. Anthony Chan and He Zhu and Hongwei Kan and Jiaming Chu and Jianming Hu and Jianyang Gu and Jin Chen and Jo{\~{a}}o V. B. Soares and Jonas Theiner and Jorge De Corte and Jos{\'{e}} Henrique Brito and Jun Zhang and Junjie Li and Junwei Liang and Leqi Shen and Lin Ma and Lingchi Chen and Miguel Santos Marques and Mike Azatov and Nikita Kasatkin and Ning Wang and Qiong Jia and Quoc Cuong Pham and Ralph Ewerth and Ran Song and Rengang Li and Rikke Gade and Ruben Debien and Runze Zhang and Sangrok Lee and Sergio Escalera and Shan Jiang and Shigeyuki Odashima and Shimin Chen and Shoichi Masui and Shouhong Ding and Sin-wai Chan and Siyu Chen and Tallal El-Shabrawy and Tao He and Thomas B. Moeslund and Wan-Chi Siu and Wei Zhang and Wei Li and Xiangwei Wang and Xiao Tan and Xiaochuan Li and Xiaolin Wei and Xiaoqing Ye and Xing Liu and Xinying Wang and Yandong Guo and Yaqian Zhao and Yi Yu and Yingying Li and Yue He and Yujie Zhong and Zhenhua Guo and Zhiheng Li},
-	title = {{SoccerNet} 2022 Challenges Results},
-	booktitle = {Proceedings of the 5th International {ACM} Workshop on Multimedia Content Analysis in Sports}
-}
-```
-
-
-## Useful links
-- [Soccernet official website](https://soccer-net.org/)
-- [ACAD Research](https://www.youtube.com/channel/UCYkYA7OwnM07Cx78iZ6RHig)
-- [Torchreid](https://github.com/KaiyangZhou/deep-person-reid)
-
-
-## Questions and Remarks
-If you have any question or remark regarding the challenge and related materials, please raise a GitHub issue in this repository, or contact us directly on [Discord](https://discord.gg/SM8uHj9mkP).
-
-
-## Sponsorship
-This challenge is officially sponsored by [Synergy Sports](https://synergysports.com/), a division of [Sportradar](https://www.sportradar.com/).
