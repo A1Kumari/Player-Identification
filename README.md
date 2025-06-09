@@ -15,17 +15,7 @@ The winner of the competition will be announced in June 2023.
 
 SoccerNet Re-Identification (ReID) is part of the SoccerNet-v3 dataset, which is an extension of SoccerNet-v2 with new and challenging tasks including 
 action spotting, camera shot segmentation with boundary detection, replay grounding, calibration, multi-view player re-identification and multi-player tracking.
-The participation deadline is fixed at the 25th of May 2023.
-The official rules and guidelines are available on [ChallengeRules.md](ChallengeRules.md).
 
-
-Make sure to watch our announcement video on Youtube:
-
-&nbsp;
-<p align="center"><img src="images/Thumbnail.png" width="520"></p>
-</a>
-
- 
      
 
    
